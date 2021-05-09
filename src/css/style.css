@@ -1,9 +1,14 @@
 body {
-    background-color:aquamarine;
+    background-color:#eed4e4;
 }
 
 .basic {
     color: red;
+}
+
+.logo__box {
+    margin-bottom: 20px;
+    padding: 10px;
 }
 
 .logo {
@@ -13,4 +18,34 @@ body {
 
 .logo-img {
     width: 80px;
+}
+
+.menu {
+    margin: 10px;
+}
+.menu__items {
+    display: inline;
+    padding: 5px;
+}
+.conteiner {
+    display: block;
+    
+    
+    
+}
+
+.box {
+    margin: 5px;
+    padding: 10px 15px;
+    top: 0px;
+    width: 200px;
+    display: inline-block;
+    background-color: lightblue;
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: black;
+    box-shadow: 0 0 5px 2px;
+    vertical-align: top;
+    
+
 }
